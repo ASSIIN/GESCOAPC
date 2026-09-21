@@ -1,21 +1,156 @@
-MIT License
+================================================================================
+            GESCO-APC - LICENCE D'UTILISATION (ABONNEMENT ANNUEL)
+================================================================================
 
-Copyright (c) 2026 ASSIIN
+Version : 2026-2027                     
+Éditeur : INOFIB
+Portail officiel : https://licences.inofib.com
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+--------------------------------------------------------------------------------
+PREAMBULE
+--------------------------------------------------------------------------------
+Le présent document constitue le contrat de licence d'utilisation du logiciel
+GESCO-APC ("le Logiciel"). L'installation, l'activation ou l'utilisation du
+Logiciel par l'établissement ("le Licencié") vaut acceptation intégrale et sans
+réserve des présentes conditions.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+--------------------------------------------------------------------------------
+1. OBJET DE LA LICENCE
+--------------------------------------------------------------------------------
+1.1 INOFIB concède au Licencié une licence d'utilisation NON EXCLUSIVE et
+    NON TRANSFERABLE du Logiciel, pour la gestion scolaire d'UN SEUL
+    établissement d'enseignement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1.2 La licence est accordée pour UNE ANNEE SCOLAIRE (session), du
+    1er septembre au 31 août, sauf indication contraire sur la clé de licence.
+
+1.3 Le nombre de postes (ordinateurs) autorisés est celui figurant sur la clé
+    de licence délivrée. Toute utilisation simultanée au-delà de ce nombre est
+    interdite et constitue une violation du présent contrat.
+
+--------------------------------------------------------------------------------
+2. ACTIVATION ET CLE DE LICENCE
+--------------------------------------------------------------------------------
+2.1 L'activation du Logiciel est obligatoire. Elle s'effectue par saisie d'une
+    clé de licence signée électroniquement et émise par le portail INOFIB.
+
+2.2 La clé de licence est NOMINATIVE : elle est liée à l'identifiant
+    d'installation (install_id), au nom de l'établissement et à l'année
+    scolaire. Toute tentative de modification manuelle de ces éléments
+    verrouille le Logiciel (protection anti-fraude).
+
+2.3 En cas de panne ou de changement du poste informatique, le Licencié peut
+    récupérer sa clé sur le portail (fonction "Récupérer ma clé") à condition
+    de fournir l'install_id d'origine.
+
+--------------------------------------------------------------------------------
+3. PAIEMENT ET TARIFS
+--------------------------------------------------------------------------------
+3.1 La licence est subordonnée au règlement préalable du montant correspondant
+    à la tranche d'effectif de l'établissement, selon la grille tarifaire
+    publiée sur le portail INOFIB.
+
+3.2 Le paiement s'effectue par mobile money via le service Assiin Pay,
+    intégré au portail. Un reçu et la clé de licence sont transmis par email.
+
+3.3 Sauf obligation légale contraire, les sommes versées ne sont pas
+    remboursables. Un échéancier ou une réduction éventuelle relèvent de la
+    seule décision d'INOFIB.
+
+--------------------------------------------------------------------------------
+4. OBLIGATIONS DU LICENCIE
+--------------------------------------------------------------------------------
+4.1 Le Licencié s'engage à :
+    - utiliser le Logiciel conformément à sa destination et à ses documents ;
+    - ne pas tenter de neutraliser, contourner ou falsifier le contrôle de
+      licence, la signature électronique ou la télémesure périodique ;
+    - ne pas copier le Logiciel en vue de son installation sur plusieurs
+      établissements ;
+    - ne pas louer, prêter, céder, revendre ou redistribuer le Logiciel ;
+    - ne pas modifier, adapter, décompiler ou désassembler le Logiciel sauf
+      autorisation écrite d'INOFIB ;
+    - sécuriser ses données (mots de passe des comptes utilisateurs,
+      hébergement) et effectuer des sauvegardes régulières.
+
+4.2 Le Licencié demeure responsable de la saisie et de l'exactitude des données
+    saisies dans le Logiciel (effectifs, notes, finances) et de leur conformité
+    à la réglementation applicable à l'établissement.
+
+--------------------------------------------------------------------------------
+5. DONNEES ET TELEMESURE
+--------------------------------------------------------------------------------
+5.1 Le Logiciel procède à une remontee périodique automatique des référentiels
+    (structure : classes, matières, établissement, effectif déclaré) vers le
+    portail INOFIB, à des fins de contrôle de l'effectif payé et de
+    sauvegarde/audit. Ces remontees ne sont jamais bloquantes pour le
+    fonctionnement hors-ligne du Logiciel.
+
+5.2 INOFIB s'engage à ne pas divulguer les données des établissements à des
+    tiers et à les utiliser uniquement pour les finalités ci-dessus ainsi que
+    pour l'appui technique.
+
+5.3 Les données de la télémesure sont conservées en conformité avec les
+    obligations légales du Cameroun relatives aux données à caractère personnel.
+
+--------------------------------------------------------------------------------
+6. PROPRIETE INTELLECTUELLE
+--------------------------------------------------------------------------------
+6.1 Le Logiciel, sa documentation, ses marques, graphismes et codes source
+    demeurent la propriété exclusive d'INOFIB. Le présent contrat n'emporte
+    aucun transfert de propriété.
+
+6.2 Certains composants embarqués (Bootstrap, FontAwesome, PhpSpreadsheet,
+    FPDF, etc.) restent soumis à leurs propres licences open source,
+    respectées telles quelles par l'éditeur.
+
+--------------------------------------------------------------------------------
+7. GARANTIES ET RESPONSABILITE
+--------------------------------------------------------------------------------
+7.1 Le Logiciel est fourni "EN L'ÉTAT" (as is). INOFIB garantit uniquement
+    que le Logiciel fonctionne conformément à sa documentation sur une
+    plateforme conforme aux prérequis publiés (PHP 8.0+, MySQL 5.7+).
+
+7.2 Dans la limite prévue par la loi, INOFIB ne saurait être tenu
+    responsable des dommages indirects, pertes de données (nonobstant les
+    sauvegardes proposées) ou manque à gagner résultant de l'utilisation ou
+    de l'impossibilité d'utiliser le Logiciel.
+
+7.3 En cas de défaillance avérée du Logiciel, INOFIB s'engage à déployer
+    des efforts raisonnables pour la corriger dans les meilleurs délais via
+    la mise à jour fournie au Licencié.
+
+--------------------------------------------------------------------------------
+8. DUREE ET RENOUVELLEMENT
+--------------------------------------------------------------------------------
+8.1 L'abonnement est annuel et lié à une session scolaire. Il expire au plus
+    tard le 31 août de l'année concernée.
+
+8.2 Toute nouvelle session scolaire requiert le renouvellement de la licence.
+    La clé de la nouvelle session ne prend effet qu'à la date de début
+    indiquée (rentrée).
+
+--------------------------------------------------------------------------------
+9. RESILIATION
+--------------------------------------------------------------------------------
+9.1 En cas de violation du présent contrat, INOFIB peut résilier la licence
+    sans préavis ni remboursement, en bloquant l'activation concernée.
+
+9.2 A l'échéance ou à la résiliation, le Licencié cessera toute utilisation du
+    Logiciel et pourra exporter ses données au format natif de la base de
+    données.
+
+--------------------------------------------------------------------------------
+10. DIVERS
+--------------------------------------------------------------------------------
+10.1 INOFIB peut mettre à jour les présentes conditions ; les conditions en
+     vigueur sont celles publiées sur le portail licences.inofib.com.
+
+10.2 Le présent contrat est régi par le droit camerounais. Toute difficulté
+     relève, à défaut de résolution amiable, des juridictions compétentes de
+     Yaoundé.
+
+--------------------------------------------------------------------------------
+CONTACT
+--------------------------------------------------------------------------------
+Portail : https://licences.inofib.com
+--------------------------------------------------------------------------------
